@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Enzo Fernandes</h1>
+<h3 align="center">Systems Analysis & Software Development Student | Full-Stack Developer</h3>
 
-<!--
-**EnzoDevJr-hub/EnzoDevJr-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/enzofrnndes"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2F81F7"></a>
+  <a href="mailto:enzofernandes09m@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=2F81F7"></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=java,mysql,js,html,css,git,github,figma&theme=dark" />
+</p>
+
+---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=EnzoDevJr-hub&theme=dark&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnzoDevJr-hub&theme=github_dark" />
+</p>
